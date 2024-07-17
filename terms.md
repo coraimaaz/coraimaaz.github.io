@@ -27,3 +27,13 @@ JMAF Pro is a software tool that helps IT experts manage Apple devices in a work
 ## G-Suite Management Console
 
 G Suite Management Console is now known as Google Workspace. Google workspace is a tool that helps administrators manage google's productivity suite. This enhances security and compliance. 
+
+## GLPI 
+
+GLPI stands for Gestionaire Libre de Parc Informatique. GLPI is an open-source ITSM tool that offers asset management ticketing, and service management functionalities.
+
+
+
+
+
+

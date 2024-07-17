@@ -1,5 +1,3 @@
-# coraimaaz.github.io
-
 ## Github Starter
 
 When using github it can look overwhelmed. Once you get the hang of it, it doesn't seem so bad. I am still learning, I won't know a lot in one day. Take time and keep practicing. Eventually you will get the hang of it. 
@@ -10,6 +8,3 @@ As a beginner, this would seem like a lot of work. Some advice I would give woul
 
 When I first started to create my website, there was a whole process before actually entering information recarding the website. 
 
-
-
- 
