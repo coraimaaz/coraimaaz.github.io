@@ -32,6 +32,10 @@ G Suite Management Console is now known as Google Workspace. Google workspace is
 
 GLPI stands for Gestionaire Libre de Parc Informatique. GLPI is an open-source ITSM tool that offers asset management ticketing, and service management functionalities.
 
+## SAML 
+
+SAML stands for Security Assertion Markup Language. SAML is a way to get different computers to align with each other to know who you are. 
+
 
 
 
