@@ -10,10 +10,10 @@ I have grabbed a comnputer and I need to install it to my monitor.
 
 The computer needs to be installed to the hardware such as monitor, keyboard, mouse. 
 
-## A- Action
+## A- Action:
 
 I grabbed the computer, the next step the getting the nessary outlets to make the computer functional. I needed a power point, cables, and making sure every cable was in it's connect spot. As everything went in perfectly, I turned on the computer and It worked. 
 
-## R- Result
+## R- Result:
 
-The computer was successful. 
+The computer was successful.
