@@ -1,4 +1,4 @@
-# Racked a Server
+## Racked a Server
 
 I have never racked a sever before but wasn't too bad. It's a two person job so don't think you aren't capable to do it, you just need some assistance. 
 
