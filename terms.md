@@ -36,6 +36,15 @@ GLPI stands for Gestionaire Libre de Parc Informatique. GLPI is an open-source I
 
 SAML stands for Security Assertion Markup Language. SAML is a way to get different computers to align with each other to know who you are. 
 
+## RAM 
+
+RAM stands for random access memory. It is a temporary storage for data and programs. 
+
+## ROM
+
+ROM stands for Read-only Memory. It is a permanent storage for data and programs. 
+
+
 
 
 
