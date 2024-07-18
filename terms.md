@@ -51,4 +51,3 @@ ROM stands for Read-only Memory. It is a permanent storage for data and programs
 
 
 
-
