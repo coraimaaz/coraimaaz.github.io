@@ -12,7 +12,9 @@ A user will submit any issues that they might have or request. The portal will a
 
 The system will support features such as ticket prioritization, status tracking, urgent issues.
 
-##
+## Knowledge 
+
+There will be some issues and their solutions. 
 
 
 
